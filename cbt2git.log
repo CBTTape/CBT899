@@ -1,0 +1,14 @@
+2025-04-13 23:54:11.258268 - Received CBT.V508.FILE899.PDS from FILE899.XMI 
+2025-04-13 23:54:11.259539 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:54:11.259632 - Found $$INTRO.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/$$INTRO
+2025-04-13 23:54:11.259700 - Found @FILE899.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/@FILE899
+2025-04-13 23:54:11.259791 - Found DACEE.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/DACEE
+2025-04-13 23:54:11.259851 - Found DACEE$.jcl (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/DACEE$
+2025-04-13 23:54:11.259925 - Found DACEEO.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/DACEEO
+2025-04-13 23:54:11.260002 - Found DACEE1.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/DACEE1
+2025-04-13 23:54:11.260103 - Found DACEE2.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/DACEE2
+2025-04-13 23:54:11.260175 - Found EPUTL.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/EPUTL
+2025-04-13 23:54:11.260263 - Found FACEE.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/FACEE
+2025-04-13 23:54:11.260338 - Found FACEE1.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/FACEE1
+2025-04-13 23:54:11.260414 - Found FACEE2.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/FACEE2
+2025-04-13 23:54:11.260489 - Found FACEE3.txt (text/plain) in CBT.V508.FILE899.PDS, moved to PDS/FACEE3

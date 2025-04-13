@@ -1,0 +1,22 @@
+Notes concerning these programs:  DACEE and FACEE.
+
+1.  DACEE is designed to format and display the contents of your
+    own TSO session's ACEE.  The control blocks UTOKEN and ACEX
+    are displayed (to the best of my current ability) optionally
+    as well.  Currently, the development of the DACEE program is
+    "ahead" of the FACEE program, because the FACEE program is
+    designed to format "arbitrary" ACEE's and we don't always
+    know how much of it will be there.
+
+2.  The FACEE program is designed to format a 192-byte control
+    block as if it were an ACEE.  Currently, it doesn't have the
+    ability to format the UTOKEN (if it is there) or the ACEX.
+
+This all may change....   (SBG - Jan 2022)
+
+3.  If you are using FACEE cross-memory (e.g. via scheduling an
+    SRB), and you want to see storage in the target address space
+    that is pointed to by FACEE, you can use the LOOK program from
+    CBT File 264 to view the storage inside the required address
+    space.
+
